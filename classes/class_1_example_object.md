@@ -10,6 +10,7 @@ has_mustard: false
 hot: true
 size: "medium"
 
+
 Methods:
 
 toast: hot already = true, no change occurs

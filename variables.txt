@@ -1,0 +1,17 @@
+food = "Pizza"
+
+is_delicious = true
+
+food = "Cake"
+
+num2 = 5
+
+num7 = 9
+
+quotient = num7 / num2
+
+songs = ["Yesterday", "Hey, Jude", "Yellow Submarine"]
+
+songs.shift
+
+food.length

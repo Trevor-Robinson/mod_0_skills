@@ -21,10 +21,12 @@ add_meat: meats =["chicken", "bacon", "ham", "turkey"]
 add_cheese: cheeses = ["cheddar", "swiss"]  
 add_veggie: veggies = ["lettuce", "tomato", "onion"]  
 change_bread: bread_type = "White"  
-change_size: size = "large"  
+change_size:  
+             size = "large"  
              meats = ["chicken", "chicken", "bacon", "bacon", "ham", "ham", "turkey", "turkey"]  
              cheeses = ["cheddar", "cheddar", "swiss", "swiss"]  
              veggies = ["lettuce", "lettuce", "tomato" "tomato", "onion", "onion"]  
-make_vegan: meats[]  
+make_vegan:  
+            meats[]  
             cheeses[]  
             veggies["lettuce", "lettuce" "tomato", "tomato", "onion", "onion"]  
